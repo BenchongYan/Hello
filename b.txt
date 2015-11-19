@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 llll
 llll
+=======
+I am B
+>>>>>>> 5ac0018aa74b447973adb8eddbc6ff3775817e4b
